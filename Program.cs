@@ -29,6 +29,7 @@ namespace Arrays_task1
         //F-Task
         public void MaxDis()
         {
+            //
             int[] arr = new int[] { 1, 3, 2, 1, 4, 3, 1, 2, 1 };
             int Max_dis = 0;
             for (int i = 0; i < arr.Length; i++)
