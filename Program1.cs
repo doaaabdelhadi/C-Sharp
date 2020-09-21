@@ -14,7 +14,7 @@ namespace Arrays_task1
 
             //task1
             OneDimetion();
-            //Tas
+            //Task2
             D2Arrary();
             //Task3
             EmpShow();
@@ -29,6 +29,7 @@ namespace Arrays_task1
         //F-Task
         public void MaxDis()
         {
+            //
             int[] arr = new int[] { 1, 3, 2, 1, 4, 3, 1, 2, 1 };
             int Max_dis = 0;
             for (int i = 0; i < arr.Length; i++)
@@ -47,7 +48,7 @@ namespace Arrays_task1
                         {
                             Max_dis = dis;
                         }
-                        //Console.WriteLine("---------");
+                       
 
 
                     }
@@ -99,8 +100,11 @@ namespace Arrays_task1
         //task2
         static void D2Arrary()
         {
+            //first part
+            // imple 2D arrray
+            //define array
             int[,] Arr2 = new int[2, 2];
-
+            //set values for array
             for (int i = 0; i < Arr2.GetLength(0); i++)
             {
                 for (int j = 0; j < Arr2.GetLength(1); j++)
@@ -111,8 +115,9 @@ namespace Arrays_task1
                 }
 
             }
-            Console.WriteLine("*************");
-            //  int MaxArr2 = Arr2[0, 0], MinArr2 = Arr2[0, 0], SumArr2 = 0;
+            //Second part 
+            // For return Sum of every col
+            //arr to save sum 
             int[] SumArr = new int[Arr2.GetLength(0)];
             
             for (int i=0; i < Arr2.GetLength(0); i++)
@@ -120,7 +125,6 @@ namespace Arrays_task1
                 int sum = 0;
                 for (int j = 0; j < Arr2.GetLength(1); j++)
                 {
-                    //Console.WriteLine(Arr2[i,j]);
 
                     sum += Arr2[i, j];
                 }
@@ -132,70 +136,53 @@ namespace Arrays_task1
             }
         }
         
-        /*for (int i = 0; i < Arr2.GetLength(0); i++)
-        {
-
-            Console.WriteLine(Arr2[i,i]);
-
-        }
-        for (int j = 0; j < Arr2.GetLength(); j++)
-        {
-
-            Console.WriteLine($"2D array: {Arr2[i, j] }");
-
-            /* if (MaxArr2 < Arr2[i, j])
-            {
-                MaxArr2 = Arr2[i, j];
-            }
-            else if (MinArr2 > Arr2[i, j])
-            {
-                MinArr2 = Arr2[i, j];
-            }
-        }*/
-        //Console.WriteLine($"Max of 2D array: {MaxArr2 }");
-        //Console.WriteLine($"Min of 2D array: {MinArr2 }");
-        //Console.WriteLine($"Sum of 2D array: {SumArr2 }");
 
         //task3
         struct Emp
         {
+            // define the attur
             private int Id;
             private string Name;
             private int Age;
-
+            // function for setting value for Id
             public void SetId(int _Id)
             {
                 Id = _Id;
             }
+             // function for getting value for Id
             public int GetId()
             {
                 return Id;
             }
+             // function for setting value for Name
 
             public void SetName(String _name)
             {
                 Name = _name;
             }
+             // function for getting value for Name
             public String GetName()
             {
                 return Name;
             }
+             // function for setting value for Age
             public void SetAge(int _age)
             {
                 Age = _age;
             }
+             // function for Getting value for Id
             public int GetAge()
             {
                 return Age;
             }
-
+            // function to print the attru
             public void Print()
             {
-                Console.WriteLine($"Id: {GetId()}");
+                Console.WriteLine($"Id of emp: {GetId()}");
 
-                Console.WriteLine($"Name: {GetName()}");
+                Console.WriteLine($"Name of emp: {GetName()}");
 
-                Console.WriteLine($"Age: {GetAge()}");
+                Console.WriteLine($"Age of emp: {GetAge()}");
             }
 
         }
@@ -204,26 +191,22 @@ namespace Arrays_task1
         public void EmpShow()
         {
             Emp[] emp = new Emp[3];
-            /*e1.SetId(1);
-            e1.SetAge(11);
-            e1.SetName("Am");*/
-            //Console.WriteLine(e1.GetAge());
+            //loop to inst 3 element of Emp
             for (int i = 0; i < emp.Length; i++)
             {
+                //set id as defult increase by 1
                 emp[i].SetId(i + 1);
                 Console.WriteLine("Plz enter your Name ");
+                //set the name value for name
                 emp[i].SetName(Console.ReadLine());
                 Console.WriteLine("Plz enter your Age ");
+                //set the name value for Age
                 emp[i].SetAge(int.Parse(Console.ReadLine()));
-
+                //print elements
                 emp[i].Print();
 
             }
-           /* for (int i = 0; i < emp.Length; i++)
-            {
-                emp[i].Print();
-
-            }*/
+        
         }
        
         
