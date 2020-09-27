@@ -1,0 +1,10 @@
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\Pendulum\bin\Debug\Pendulum.exe.config
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\Pendulum\bin\Debug\Pendulum.exe
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\Pendulum\bin\Debug\Pendulum.pdb
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\Pendulum\obj\Debug\Pendulum.csprojAssemblyReference.cache
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\Pendulum\obj\Debug\Pendulum.Pendulum_display.resources
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\Pendulum\obj\Debug\Pendulum.Properties.Resources.resources
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\Pendulum\obj\Debug\Pendulum.csproj.GenerateResource.cache
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\Pendulum\obj\Debug\Pendulum.csproj.CoreCompileInputs.cache
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\Pendulum\obj\Debug\Pendulum.exe
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\Pendulum\obj\Debug\Pendulum.pdb

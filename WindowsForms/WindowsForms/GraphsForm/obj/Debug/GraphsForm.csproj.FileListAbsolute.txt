@@ -1,0 +1,10 @@
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\GraphsForm\obj\Debug\GraphsForm.Properties.Resources.resources
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\GraphsForm\obj\Debug\GraphsForm.csproj.GenerateResource.cache
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\GraphsForm\obj\Debug\GraphsForm.csproj.CoreCompileInputs.cache
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\GraphsForm\obj\Debug\GraphsForm.Ball_play.resources
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\GraphsForm\bin\Debug\GraphsForm.exe.config
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\GraphsForm\bin\Debug\GraphsForm.exe
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\GraphsForm\bin\Debug\GraphsForm.pdb
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\GraphsForm\obj\Debug\GraphsForm.exe
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\GraphsForm\obj\Debug\GraphsForm.pdb
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\GraphsForm\obj\Debug\GraphsForm.csprojAssemblyReference.cache

@@ -1,0 +1,16 @@
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe.config
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\bin\Debug\WindowsForms.pdb
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\obj\Debug\WindowsForms.exe
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\obj\Debug\WindowsForms.pdb
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\bin\Debug\aa-DJ\WindowsForms.resources.dll
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\bin\Debug\aa\WindowsForms.resources.dll
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Form1.aa-DJ.resources
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Form1.aa.resources
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\obj\Debug\aa-DJ\WindowsForms.resources.dll
+H:\Learning\ITI(BI-3)\Courses\C#\WindowsForms\WindowsForms\obj\Debug\aa\WindowsForms.resources.dll
